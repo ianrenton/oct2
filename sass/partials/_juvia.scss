@@ -1,11 +1,10 @@
 div.juvia-comment div.juvia-metadata {
   background-image: none;
-  background: #222;
 }
 
 div.juvia-preview-content {
-  background: #333;
-  border: 1px solid #222;
+  background: #ccc;
+  border: 1px solid #888;
 }
 
 div.juvia-topic h3 {
@@ -17,8 +16,5 @@ div.juvia-topic h4 {
 }
 
 div.juvia-comment-content pre, div.juvia-preview-content pre {
-    background: #002b36 url('/images/noise.png?1368826778') top left;
-    color: #93a1a1;
-    border: 1px solid #05232b;
     border-radius: 0.4px;
 }
